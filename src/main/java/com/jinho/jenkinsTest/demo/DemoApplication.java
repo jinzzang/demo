@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("ad");
+		System.out.println("빠밤");
 		SpringApplication.run(DemoApplication.class, args);
 
 	}
